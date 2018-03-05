@@ -20,9 +20,11 @@ copy the theme file to your tint2 config folder:
 
 ## Showcase
 
-Theme name: sendiki
+##### Theme name: sendiki
 ![sendiki-tint2](https://user-images.githubusercontent.com/9277632/36633258-a9344b96-19c4-11e8-9cc2-543fc70320f0.png)
 
+##### Theme name: vionoir
+![vionoir-tint2](https://user-images.githubusercontent.com/9277632/36959454-aa85d5c6-2074-11e8-8c84-fd6e937b6b5b.png)
 
 ## License
 
